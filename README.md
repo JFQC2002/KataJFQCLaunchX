@@ -1,3 +1,3 @@
 # KataJFQCLaunchX
-Katas realizadas Launch X
+Katas realizadas Launch x.
 Aqui mis katas 
